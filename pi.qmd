@@ -1,0 +1,165 @@
+---
+title: "Prof. Choh, Suk-Joo"
+about:
+  template: solana
+  image: chosukjoo.png
+  image-shape: rounded
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:sjchoh@korea.ac.kr
+    - icon: google
+      text: Google Scholar
+      href: https://scholar.google.com/citations?hl=ko&user=jqboLEoAAAAJ
+    - icon: tablet
+      text: School website
+      href: https://faculty.korea.ac.kr/kufaculty/sedrock/index.do
+---
+
+## **Education✒️**
+
+-   Ph.D., Geology, Dept. of Geological Sciences, Univ. of Texas at Austin (1997\~2004)
+
+-   M.S., Geology, Dept. of Geology, Univ. of Louisiana at Lafayette (1995\~1997)
+
+-   B.S., Geology, Dept. of Geology, Korea Univ. (1986\~1991)
+
+## **Professional experience 💻**
+
+-   Department Chair, Dept. of Earth & Environmental Sciences, Korea Univ. (2013\~2015; 2018\~2020)
+
+-   Professor, Dept. of Earth & Environmental Sciences, Korea Univ. (2017\~present)
+
+-   Associate Professor, Dept. of Earth & Environmental Sciences, Korea Univ. (2012\~2017)
+
+-   Assistant Professor, Dept. of Earth & Environmental Sciences, Korea Univ. (2005\~2012)
+
+-   Post Doctoral Fellow, Dept. of Geological Sciences, Univ. of Texas at Austin (2004\~2005)
+
+## **Award🎖️**
+
+-   2019\. 4 KU Teaching Excellence Award (석탑강의상) (A total of ten KU TEAs during 2008\~2020)
+
+-   2008 Bronze Award, Innovation Instructional Technology for Web-based & Multimedia Learning, Univ. of Texas at Austin
+
+-   2001 SEPM Best Poster Award, American Association of Petroleum Geologists Annual Meeting at Denver
+
+## Publication📕
+
+##### **국제학술지**
+
+-   Lee, J.-H., Cho, S. H., Jung, D., **Choh, S.-J.** and Lee, D.-J., 2021, Ribbon rocks revisited: upper Cambrian (Furongian) Hwajeol Formation, Taebaeksan Basin, Korea: Facies, 67, 19.
+
+-   Park, J., Lee, J.-H., Liang, K., **Choh, S.-J.**, 2021, Facies analysis of the Upper Ordovician Xiazhen Formation, southeast China: Implications for carbonate platform development in South China prior to the onset of the Hirnantian glaciation: Facies, 67, 18.
+
+-   Cho, S. H., Lee, B.-S., Lee, D.-J., and **Choh, S.-J.**, 2020, The Ordovician succession of the Taebaek Group (Korea) revisited: old conodont data, new perspective, and implications: Geosciences Journal, https://doi.org/10.1007/s12303-020-0044-5
+
+-   Jeon, J., Liang, K., Park, J., **Choh, S.-J.** and Lee, D.-J., 2020, Late Ordovician stromatoporoids from the Xiazhen Formation of South China: paleoecological and paleogeographical implications: Geological Journal, 55, 197-209.
+
+-   Jeon, J., Li, Q., Oh, J.-R., **Choh, S.-J.** and Lee, D.-J., 2019, A new species of the primitive stromatoporoid *Cystostroma* from the Ordovician of East Asia: Geosciences Journal, 23, 547-556.
+
+-   Kim, H.S., **Choh, S.-J.**, Lee, J.-H. and Kim, S.J., 2019, Sediment grain size does matter: Implications of spatiotemporal variations in detrital zircon provenance for early Paleozoic peri-Gondwana reconstructions: International Journal of Earth Sciences, 108, 1509-1526.
+
+-   Lee, M., Elias, R.J., **Choh, S.-J.**, and Lee, D.-J., 2019, Disorientation of corals in Late Ordovician lime mudstone: a case for ephemeral biodegradable substrate?: Palaeogeography, Palaeoclimatology, Palaeoecology, 520, 55-65.
+
+-   Lee, M., Elias, R.J., **Choh, S.-J.**, and Lee, D.-J., 2019, Paleobiological features of coralomorph *Amsassia* from the Late Ordovician of South China: Alcheringa, 43, 18-32.
+
+-   Wang, Q., Want, Y. Qi, Y., Wang, X., **Choh, S.-J.**, Lee, D.-C., and Lee, D.-J., 2018, Revised conodont and fusuline biostratigraphy of the Bamchi Formation (Pyongan Supergroup) at the Bamchi section, Yeongwol and the Carboniferous–Permian boundary in South Korea: Alcheringa, 42, 244-257.
+
+-   Hong, J.S., Oh, J.R., Lee, J.-H., **Choh, S.-J.** and Lee, D.-J., 2018, The earliest evolutionary link of metazoan bioconstruction: laminar stromatoporoid-bryozoan reef from the Middle Ordovician of Korea: Palaeogeography, Palaeoclimatology, Palaeoecology, 492, 126-133.
+
+-   Lee, J.-H., **Choh, S.-J.** and Lee, D.-J., 2018, Late Cambrian missing link in macroborer evolution found from “bored” intraclasts: Palaeogeography, Palaeoclimatology, Palaeoecology, 489, 137-146.
+
+-   Lee, D.-C., **Choh, S.-J.**, Lee, D.-J., Ree, J.-H., Lee, J.-H. and Lee, S.-B., 2017, Where art thou “the great hiatus?” – Review of Upper Ordovician to Devonian fossil-bearing strata in the Korean Peninsula and their tectonostratigraphic implication: Geosciences Journal, 21, 913-931.
+
+-   Zhang, M., Hong, J.S., **Choh, S.-J.** and Lee, D.-J., 2017, Thrombolite reefs with archaeocyaths of the Xiannudong Formation (middle Cambrian Series 2), Sichuan, China: implications for early Paleozoic bioconstruction: Geosciences Journal, 21, 655-666.
+
+-   Jeon, J., Park, J., **Choh, S.-J.** and Lee, D.-J., 2017, Early labechiid stromatoporoids of the Yeongheung Formation (Middle Ordovician), Yeongwol Group, mideastern Korean Peninsula: Part II. Systematic paleontology and paleogeographic implications: Geosciences Journal, 21, 331-340.
+
+-   Park, J., Hong, J.S., Lee, J.-H., **Choh, S.-J.** and Lee, D.-J., 2017, Early labechiid stromatoporoids of the Yeongheung Formation (Middle Ordovician), Yeongwol Group, mideastern Korean Peninsula: Part I. Environmental distribution: Geosciences Journal, 21, 317-329.
+
+-   Hong, J.S., **Choh, S.-J.**, Park, J. and Lee, D.-J., 2017, Construction of the earliest stromatoporoid framework: labechiid reefs from the Middle Ordovician of Korea: Palaeogeography, Palaeoclimatology, Palaeoecology, 470, 54-62.
+
+-   Park, J., Hong, J.S., Lee, J.-H., **Choh, S.-J.**, Lee, D.-C. and Lee, D.-J., 2017, Crouching shells, hidden sponges: Unusual Late Ordovician cavities containing sponges: Sedimentary Geology, 347, 1-9.
+
+-   Lee, J.-H., Kim, B.-J., Liang, K., Park T.-Y., **Choh, S.-J.**, Lee, D.-J., Woo, J., 2016, Cambrian reefs in the western North China Platform (Wuhai, Inner Mongolia): Acta Geoscience Sinica, 90, 1946-1954.
+
+-   Lee, M., Elias, R.J., **Choh, S.-J.**, and Lee, D.-J., 2016, Insight from early coral-stromatoporoid intergrowth, Late Ordovician of China: Palaeogeography, Palaeoclimatology, Palaeoecology, 463, 192-204.
+
+-   Liang, K., Elias, R.J., **Choh, S.-J.**, Lee, D.-C. and Lee, D.-J., 2016, Morphometrics and paleoecology of Catenipora (Tabulata) from Xiazhen Formation (Upper Ordovician), Zhuzhai, South China: Journal of Palaeontology, 90, 10287-1048.
+
+-   Lee, J.-H., Hong, J.S., Lee, D.-J. and **Choh, S.-J.**, 2016, A new Middle Ordovician reef-building consortium of bivalve-siliceous sponge-microbe from North China: Palaeogeography, Palaeoclimatology, Palaeoecology, 457, 23-30.
+
+-   Chen, Z., Kim, M.-H., **Choh, S.-J.**, Lee, D.J. and Chen X., 2016, Discovery of Anticostia uniformis from the Xiazhen Formation at Zhuzhai, South China and its stratigraphic implication: Paleoworld, 25, 356-361.
+
+-   Lee, J.-H., Hong, J.S., **Choh, S.-J.**, Lee, D.-J., Woo, J. and Riding, R., 2016, Early recovery of sponge framework reefs after Cambrian archaeocyath extinction: Palaeogeography, Palaeoclimatology, Palaeoecology, 457, 269-276.
+
+-   Hong, J.S., Lee, J.-H., **Choh, S.-J.** and Lee, D.-J., 2016, Cambrian Series 3 carbonate platform of Korea dominated by microbial-sponge reefs: Sedimentary Geology, 341, 58-69.
+
+-   Park, T.-Y., Kihm, J.-H., Woo, J., Zhen, Y.-Y., Engelbretsen, M., Hong, J.S., **Choh, S.-J.** and Lee, D.-J., 2016, Cambrian stem-group cnidarians and a new species of stem-group cnidarian from the Cambrian Series 3 of the Taebaeksan Basin, Korea: Acta Geoscience Sinica, 90, 827-837.
+
+-   Lee, M., Park, H., Tien, N.V., **Choh, S.-J.**, Elias, R.J., and Lee, D.-J., 2016, A new species of Amsassia from the Ordovician of Korea and China: paleobiological and paleogeographical significance: Acta Geoscience Sinica 90, 796-806.
+
+-   Hong, J.S., **Choh, S.-J.** and Lee, D.-J., 2016, Distribution of chancelloriid in middle Cambrian carbonate platform deposit, Taebaek Group, Korea: Acta Geoscience Sinica, 90, 783-795.
+
+-   Ree, J.-H., **Choh, S.-J.**, Jung, H. and Lee, D.-J., 2016, Re-examination of a supposed ‘Archaeocyatha’ specimen of the Hyangsanni Formation, Okcheon Basin, Korea: Geosciences Journal, 20, 285-294.
+
+-   Sun, N., Elias, R.J., **Choh, S.-J.**, Lee, D.-C., Wang X.-L. and Lee, D.-J., 2016, Morphometrics and palaeoecology of the coral Agetolites from Xiazhen Formation (Upper Ordovician), Zhuzhai, South China: Alcheringa, 40, 251-274.
+
+-   Lee, J.-H., Hong, J.S., Woo, J., Oh, J.-R., Lee, D.-J., **Choh, S.-J.**, 2016, Reefs in the early Paleozoic Taebaek Group, Korea: a review: Acta Geoscience Sinica, 90, 352-367.
+
+-   Park, J., Lee, J.-H., Hong, J.S., **Choh, S.-J.**, Lee, D.-C. and Lee, D.-J., 2015, An Upper Ordovician sponge-bearing micritic limestone and implication for early Palaeozoic carbonate successions: Sedimentary Geology, 319, 124-133.
+
+-   Hong, J.S., **Choh, S.-J.** and Lee, D.-J., 2015, Untangling intricate microbial-sponge frameworks: the contributions of sponges to Early Ordovician reefs: Sedimentary Geology, 318, 75-84.
+
+-   Oh, J.-R., **Choh, S.-J.** and Lee, D.-J., 2015, First report of Cystostroma stromatoporoid from Sino-Korean Block: Geosciences Journal, 19, 25-31.
+
+-   Lee, M., Sun, N., **Choh, S.-J.** and Lee, D.-J., 2014, A new Middle Ordovician reef assemblage from north-central China and its palaeobiogeographical implications: Sedimentary Geology, 310, 30-40.
+
+-   Hong, J.S., **Choh, S.-J.** and Lee, D.-J., 2014, Tales from the crypts: early adaptation of cryptobiontic sessile metazoan: Palaios, 29, 95-100.
+
+-   Lee, J.-H., Chen, J., **Choh, S.-J.**, Lee, D.-J., Han, Z. and Chough, S.K., 2014, Furongian (Late Cambrian) sponge-microbial maze-like reefs in the North China Platform: Palaios, 29, 27-37.
+
+-   **Choh, S.-J.**, Hong, J.S., Sun, N., Kwon, S.W., Park, T.-Y., Woo, J., Kwon, Y.K., Lee, D.C., and Lee, D.-J., 2013, Early Ordovician reefs from the Taebaek Group, Korea: Constituents, types, and geological implications: Geosciences Journal, 17, 139-149.
+
+-   Choi, B.Y., Yun, S.T., Kim, K.H., Kim, K. and **Choh, S.-J.**, 2013, Geologically controlled agricultural contamination and water-rock interaction in an alluvial aquifer: results from a hydrochemical study: Environmental Earth Sciences, 68, 203-217.
+
+-   Lee, D.-C., Park, J., Woo, J., Kwon, Y.K., Lee, J.-G., Guan, L., Sun, N., Lee, S.-B., Liang, K., Liu, L., Rhee, C.-W., **Choh, S.-J.**, Kim, B.-S. and Lee, D.-J., 2012, Revised stratigraphy of the Xiazhen Formation (Upper Ordovician) at Zhuzhai, South China, with its implication for regional stratigraphy and paleogeography: Alcheringa, 36, 387-404.
+
+-   Kwon, S.W., Park, J., **Choh, S.-J.**, Lee, D.-C. and Lee, D.-J., 2012, Tetradiid-sponge buildups from the Xiazhen Formation (late Katian), southeast China: a new Late Ordovician buildup consortium: Sedimentary Geology, 267-268, 15-24.
+
+-   Hong, J.S., Cho, S.H., **Choh, S.-J.**, Woo, J. and Lee, D.-J., 2012, Siliceous sponge-calcimicrobe buildups of the Daegi Formation (Middle Cambrian), Korea: Sedimentary Geology, 253-254, 47-57.
+
+-   Jo, H.Y., Kim, J.H., Lee, Y.J., Lee, M. and **Choh, S.-J.**, 2012, Evaluation of factors affecting mineral carbonation of CO2 using coal fly ash in aqueous solutions under ambient conditions: Chemical Engineering Journal, 183, 77-87.
+
+-   **Choh, S.-J.** and B.L. Kirkland, 2008, Sedimentologic role of in situ Beresellid algal colonies, Holder Formation (Upper Pennsylvanian), New Mexico, U.S.A.: Carbonates and Evaporites, 23, 79-88.
+
+-   Milliken, K.L., **Choh, S.-J.**, Papazis, P.K. and Schieber, J., 2007, “Cherty” stringers in the Barnette Shale are agglutinated foraminifera: Sedimentary Geology, 198, 221-232.
+
+-   **Choh, S.-J.** and Kirkland, B.L., 2006, Sedimentologic roles of microproblematica Donezella in a lower Pennsylvanian Donezella–siliceous sponge dominated carbonate buildup, frontal Ouachita thrust belt, Oklahoma, USA: Journal of Sedimentary Research, 76, 152-161.
+
+-   **Choh, S.-J**, K.L. Milliken, 2004, Virtual carbonate thin section using PDF: New method for interactive visualization and archiving: Carbonates and Evaporites, 19, 87-92.
+
+-   **Choh, S.-J**, K.L. Milliken, E.F. McBride, 2003, A tutorial for sandstone petrology: architecture and development of an interactive program for teaching highly visual material: Computers & Geosciences, 29, 1127-1135.
+
+-   Milliken, K.L., J.P. Barufaldi, E.F. McBride, and **S.-J. Choh**, 2003, Design and assessment of an interactive digital tutorial for undergraduate-level sandstone petrology: Journal of Geoscience Education, 51, 381-386.
+
+##### **국내학술지**
+
+-   조성권, 이동진, 이진한, **조석주**, 우주선, 2016, “태백산분지에 분포하는 장산층의 퇴적시기 및 암석 특성 재고찰”에 대한 반론: 지질학회지, 52, 961-967.
+
+-   최용미, **조석주**, 이정현, 이동찬, 이정구, 권이균, 조림, 이동진, 2015, 임진강대의 중부 고생대층: 임진계: 암석학회지, 24, 107-124.
+
+-   성영배, 이진한, **조석주**, 이홍종, 2013, 범람원에서 발견된 적색밴드에 대한 미세구조 특성: 고고학 유적층을 사례로: 한국지형학회지, 20. 41-52.
+
+-   이동진, 최용미, 이동찬, 이정구, 권이균, 조림, **조석주**, 2013b, 평남분지의 하부와 중부 고생대층: 상서리통과 곡산통: 지질학회지, 49. 181-195.
+
+-   이동진, 최용미, 이동찬, 이정구, 권이균, 조림, **조석주**, 2013a, 평남분지의 하부와 중부 고생대층: 송림역암의 고지리적 의의: 지질학회지, 49. 5-15.
+
+##### **저서**
+
+-   Milliken, K.L., and **Choh, S.-J.**, 2011, Carbonate Petrology 1.0 multimedia DVD-ROM: American Association of Petroleum Geologists/Datapages Discovery Series, No.15, Tulsa, Oklahoma (ISBN: 1588613976)
+
+-   Milliken, K.L., **Choh, S.-J.** and McBride, E.F., 2007, Sandstone Petrology 2.0 multimedia CD-ROM: American Association of Petroleum Geologists/Datapages Discovery Series No. 10, Tulsa, Oklahoma (ISBN: 1588610098).
+
+-   Milliken, K.L., **Choh, S.-J.*, and E.F. McBride, 2002, Sandstone Petrology: A tutorial petrographic image atlas multimedia CD-ROM: American Association of Petroleum Geologists/Datapages Discovery Series No. 6, Tulsa, Oklahoma (ISBN: 1588610055).

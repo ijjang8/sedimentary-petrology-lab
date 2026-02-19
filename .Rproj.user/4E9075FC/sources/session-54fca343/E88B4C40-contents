@@ -1,0 +1,26 @@
+project:
+  type: website
+
+website:
+  title: "Sedimentology Lab"
+  navbar:
+    background: "#9e0b0b"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: pi.qmd
+        text: PI
+      - href: members.qmd
+        text: Members
+      - href: research.qmd
+        text: Research
+      - href: album.qmd
+        text: Album
+      - href: contact.qmd
+        text: Contact
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true

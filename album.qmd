@@ -1,0 +1,28 @@
+---
+title: "Album"
+lightbox: true  
+---
+
+## 🏕️ 야외지질조사
+
+평창/영월지역 야외지질답사
+
+::: {layout-ncol="3"}
+![삼옥재 노두](images/samokjae%20field%20group.jpg){group="trip2025"}
+
+![미탄면 최고 맛집 아라리보리밥](images/boribap.jpg){group="trip2025"}
+
+![창리 노두 사진](mitan%20outcrop.jpg){group="trip2025"}
+:::
+
+------------------------------------------------------------------------
+
+## 🔬 실험실 일상 (Lab Life)
+
+치열하게 연구하고, 즐겁게 생활하는 연구원들의 모습입니다.
+
+::: {layout-ncol="2"}
+![연구실에서 양치하다 걸림](images/Na.jpg){group="lab"}
+
+![세미나 발표](images/lab2.jpg){group="lab"}
+:::
