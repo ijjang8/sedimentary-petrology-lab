@@ -153,26 +153,20 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="연구실-위치-location" class="level2">
 <h2 data-anchor-id="연구실-위치-location">📍 연구실 위치 (Location)</h2>
-<div id="daumRoughmapContainer1771826361096" class="root_daum_roughmap root_daum_roughmap_landing" style="margin: 0 auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); width: 100%;">
+<div style="width: 100%; height: 360px; overflow: hidden; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); margin: 20px 0;">
+<pre><code>&lt;div id="daumRoughmapContainer1771826361096" class="root_daum_roughmap root_daum_roughmap_landing" style="width: 100%; border: none;"&gt;&lt;/div&gt;</code></pre>
 </div>
 <script charset="UTF-8" class="daum_roughmap_loader_script" src="[https://ssl.daumcdn.net/dmaps/map_js_init/roughmapLoader.js](https://ssl.daumcdn.net/dmaps/map_js_init/roughmapLoader.js)"></script>
 <script charset="UTF-8">
     new daum.roughmap.Lander({
         "timestamp" : "1771826361096",
         "key" : "i7vhwv2xxze",
-        "mapWidth" : "100%",  /* 가로를 꽉 차게 조절 */
-        "mapHeight" : "400"   /* 높이는 적당히 400으로 조절 */
+        "mapWidth" : "100%",  /* 가로 꽉 차게 */
+        "mapHeight" : "360"   /* 높이를 360으로 고정 */
     }).render();
-    /* 지도 아래의 상세 정보창(주소, 전화 등)을 강제로 안 보이게 만드는 전문가의 킥 */
-    document.addEventListener("DOMContentLoaded", function() {
-        const hideInfo = document.querySelector('.hide_info'); 
-        if(hideInfo) hideInfo.style.display = 'none';
-    });
 </script>
 <style>
-  /* 카카오맵에서 자동으로 생성하는 하단 정보 영역을 숨기는 스타일 */
-  .root_daum_roughmap .wrap_controllers, 
-  .root_daum_roughmap .hide_info, 
+  /* 지도 하단 정보창만 콕 집어서 숨기기 */
   .root_daum_roughmap .foot_info {
     display: none !important;
   }
