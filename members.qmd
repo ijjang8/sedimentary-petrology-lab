@@ -97,7 +97,7 @@ title: "Members"
 ### 1. 나강채 (Na, Kang Chea)
 
 :::: {layout-ncol="2"}
-![](images/annon%20pic-01.webp){width="100%"}
+![](images/NGC.jpg){width="100%"}
 
 <div>
 
